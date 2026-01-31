@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-assert-is-matrix-orientation",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test if an input value is a matrix orientation.",
   "license": "Apache-2.0",
   "author": {
@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/array-base-assert-contains": "^0.2.2",
-    "@stdlib/blas-base-matrix-orientations": "github:stdlib-js/blas-base-matrix-orientations#main"
+    "@stdlib/blas-base-matrix-orientations": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.2",
@@ -86,7 +86,6 @@
     "validation",
     "isvalid"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
