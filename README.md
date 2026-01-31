@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isMatrixOrientation from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-orientation@esm/index.mjs';
+import isMatrixOrientation from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-orientation@v0.1.0-esm/index.mjs';
 ```
 
 #### isMatrixOrientation( value )
@@ -93,7 +93,7 @@ bool = isMatrixOrientation( 'columns' );
 <body>
 <script type="module">
 
-import isMatrixOrientation from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-orientation@esm/index.mjs';
+import isMatrixOrientation from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-orientation@v0.1.0-esm/index.mjs';
 
 var bool = isMatrixOrientation( 'rows' );
 // returns true
