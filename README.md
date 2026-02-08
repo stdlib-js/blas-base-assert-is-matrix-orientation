@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isMatrixOrientation from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-orientation@deno/mod.js';
+import isMatrixOrientation from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-orientation@v0.1.1-deno/mod.js';
 ```
 
 #### isMatrixOrientation( value )
@@ -88,7 +88,7 @@ bool = isMatrixOrientation( 'columns' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isMatrixOrientation from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-orientation@deno/mod.js';
+import isMatrixOrientation from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-matrix-orientation@v0.1.1-deno/mod.js';
 
 var bool = isMatrixOrientation( 'rows' );
 // returns true
